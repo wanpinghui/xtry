@@ -1,5 +1,5 @@
 ;(function (){
 	$('#box').click(function(){
-		alert("11111");
+		alert("2222");
 	})
 })(jQuery)
